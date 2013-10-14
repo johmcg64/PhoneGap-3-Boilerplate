@@ -3,9 +3,9 @@ PhoneGap-3-Boilerplate
 
 #Updates
 
-    20131014:
-        - Repaired some Cordova plugin paths - some submodules were broken due to namespace changes Cordova team made recently.
-        - Added new submodule for app-icon-template-ce [Info](https://github.com/cemerson/app-icon-template-ce)
+20131014:
+ - Repaired some Cordova plugin paths - some submodules were broken due to namespace changes Cordova team made recently.
+ - Added new submodule for [app-icon-template-ce](https://github.com/cemerson/app-icon-template-ce)
 
 #Overview
 Here's my humble stab at setting up and maintaining a bare bones PhoneGap 3.x project structure with the plugins* I normally use (*official plugins and others I've modified myself). 
